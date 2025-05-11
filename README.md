@@ -16,7 +16,7 @@ A modern, AI-powered Mini CRM Platform that enables **customer segmentation**, *
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/mini-crm.git
+   git clone https://github.com/shreyajgit/CRM_Application/tree/main
    cd mini-crm
    ```
 
